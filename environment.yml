@@ -1,0 +1,23 @@
+name: python-intro
+channels:
+  - conda-forge
+  - bioconda
+  - anaconda
+dependencies:
+  - python>=3.6
+  - jupyter
+  - ipykernel
+  - biopython
+  - gseapy
+  - pandas
+  - scipy
+  - numpy
+  - seaborn
+  - rise
+  - tensorflow
+  - opencv
+  - pillow
+  - imageio
+  - scikit-learn
+  - scikit-image
+  - google-colab
